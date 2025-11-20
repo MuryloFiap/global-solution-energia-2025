@@ -1,1 +1,0 @@
-# global-solution-energia-2025
