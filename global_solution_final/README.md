@@ -113,13 +113,3 @@ python iot.py
 
 ---
 
-### 7. Vídeo Explicativo
-No vídeo (até 3 minutos), recomenda-se explicar:
-
-- O problema de desperdício de energia em ambientes de trabalho
-- Os dados utilizados e o que foi observado na análise
-- Como o dispositivo IoT simulado atua para reduzir o consumo
-- Como a simulação de energia renovável contribui para a sustentabilidade
-- Que o repositório no GitHub está organizado com dados, códigos e instruções.
-
-(Insira aqui o link do vídeo não listado no YouTube)
